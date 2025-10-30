@@ -101,4 +101,4 @@ end)
 ```
 
 
-## [>Example Of The Script<](https://rawscripts.net/raw/Universal-Script-Library-Ui-Fully-Fixed-Free-49635)
+
