@@ -1,6 +1,6 @@
 # Sentinel UI Lib
 
-Credits: [github](https://github.com/MjContiga1) | [scriptblox](https://github.com/MjContiga1)
+Credits: [github](https://github.com/MjContiga1) | [scriptblox](https://scriptblox.com/u/mjcontega)
 
 load the ui lib
 
