@@ -1,4 +1,4 @@
-# Kavo UI Library by xHeptc Modded
+# Kavo UI Library by xHeptc | Modded
 
 ## Update:
 
