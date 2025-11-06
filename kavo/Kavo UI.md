@@ -215,7 +215,7 @@ end
 ```
 
 ## Remove GUI mobile toggle
-Removes the GUI mobile toggle
+Adds an additional tab to delete the toggle
 ```lua
 local Settings = Window:NewTab("Settings")
 local SetTab = Settings:NewSection("UI Settings")
