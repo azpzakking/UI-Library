@@ -5,7 +5,7 @@ Credits: [github](https://github.com/MjContiga1) | [scriptblox](https://scriptbl
 load the ui lib
 
 ```lua
-local Library = loadstring(game:HttpGet('https://gist.githubusercontent.com/MjContiga1/5b9535166d60560ac884a871cb0dc418/raw/e7fdb16802d9486d8d04d3e41d3607d89e6b4a1b/Libsuck.lua'))()
+local Library = loadstring(game:HttpGet('https://gist.githubusercontent.com/azpzakking/994c7ad5c11cbd2367adc364718fae87/raw/0b8b82268d37f1f9d428bb96abe138670e721713/Sentinel%2520Modded.lua'))()
 ```
 
 ## Creating the window
